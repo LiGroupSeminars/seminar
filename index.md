@@ -9,7 +9,7 @@
 ## Current Schedule
 <b> The weekly seminar is held at: </b>
 
-* <b> Central Time (CT): 8-9 pm, every Wednesday </b>
+* <b> Central Time (CST): 8-9 pm, every Wednesday </b>
 
 * <b> China Time: 9-10 am, every Thursday </b>
 
@@ -40,7 +40,7 @@
           <blockquote>
             <p><b> Title: TBD </b></p>
             <p><b> Speaker: <a href="https://sites.google.com/view/pengliushomepage/home">Name</a> (Lecturer/Assistant Professor, University of Essex) </b></p>
-            <p><b> Time: 0:00am-9:00 pm CT, Apr date (Wed) </b></p>
+            <p><b> Time: 0:00am-9:00 pm CSfCTT, Apr date (Wed) </b></p>
             <p><b> Location: Online via Zoom </b></p>
             <p><b> Abstract: TBD </b></p>
           </blockquote>
